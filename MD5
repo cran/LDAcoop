@@ -1,10 +1,10 @@
-ee01d7dbc1f85f7b792868ce1d68a714 *DESCRIPTION
+8bb1112bbb6a4a1eb9553cbf55dff8f9 *DESCRIPTION
 ec583c00d51b12d5bb2105f012644592 *NAMESPACE
 ea8eee57c78fd0e181a57c7a6d290316 *R/LDA_activity.R
-060adda6d348e6ef6a6af80fb1801b4c *R/LDA_activity_single.R
+452307c84af6ecd4e8558373b316f2b6 *R/LDA_activity_single.R
 dc790ac7884121e1e533d32ce20e5710 *R/LDA_plot.R
 a911fceade1493f23e55d975bb143de5 *R/LDA_plot_SF.R
-12cfdc282ef1b34036abad6ddd540b01 *R/LDA_plot_activity.R
+2e7ef83b14e0fa5605357fd0a53d2697 *R/LDA_plot_activity.R
 1dac555bb602a8a4010ecffc25ebbc80 *R/LDA_prepare_plot.R
 53098e1a17d6a3d2c2843cd79ff54321 *R/LDA_survival.R
 d1556eb8dd5b05d91ef337bd13e010ff *R/LDA_survival_single.R
@@ -12,10 +12,10 @@ b7a7de5a4f6714078534266c40010c53 *R/LDA_table.R
 0447b4326d2ee0192e88746e6eb7d391 *R/LDAdata.R
 ca71a59a7f761f369674927294421bd3 *README.md
 dc1317f69f51ad451b02695e4abce2e6 *build/vignette.rds
-09c3688c7a358493c8cb4dc6c86db5e7 *data/LDAdata.RData
+f0a6cd08b610e5afb267b36d07dbbc28 *data/LDAdata.RData
 93741d99cb3406a40e47a7d363fd7e31 *inst/doc/LDAcoop.R
-b6a86b312d9e37d44e0fbec348df834e *inst/doc/LDAcoop.Rmd
-10df531c202d370d467aa65c44a29db9 *inst/doc/LDAcoop.html
+26515bf0b1721cc007a8bfc0d161cf0d *inst/doc/LDAcoop.Rmd
+3269677340dcfd93f625c05c76906edd *inst/doc/LDAcoop.html
 5449ce237f3ac5a2ebd151064601c7d5 *man/LDA_activity.Rd
 86edeb798b627845cf8e33996733538d *man/LDA_activity_single.Rd
 9cdbcf337a2deddd1e63e5227e1e5a8f *man/LDA_plot.Rd
@@ -27,9 +27,9 @@ d3c160bc37bc8bb0d43a0557d8ec2d36 *man/LDA_survival.Rd
 c9af754a36e32eaab022f7e1009815bd *man/LDA_table.Rd
 21ff5ac79827d6ee86af9b11579f6ae9 *man/LDAdata.Rd
 8ce36e2af4254c7da1903306e34397b7 *tests/testthat.R
-1a220a280d6b73bd8a7f09bdf0c27738 *tests/testthat/Rplots.pdf
+86f889209447b6b3522faa7ea029af3d *tests/testthat/Rplots.pdf
 a2aef5ca2f1e4c7e693aaa430c1fcf88 *tests/testthat/test-LDA_activity.R
-3f58126f6f5665f4b9bee2cbc0033191 *tests/testthat/test-LDA_activity_single.R
+6c6683f3559f117dccda19704051a80a *tests/testthat/test-LDA_activity_single.R
 e3eb2a3e7d37f4816a2e5d176fc762b7 *tests/testthat/test-LDA_plot.R
 d59589864cb0529f947fd67d395f14b6 *tests/testthat/test-LDA_plot_SF.R
 01c177bc98ec40153eab335abdd25206 *tests/testthat/test-LDA_plot_activity.R
@@ -37,4 +37,4 @@ e3630b4d21aa6a5b0b718a914be81aed *tests/testthat/test-LDA_prepare_plot.R
 c69cda2004c3d97b7bf2dc8c04a5435f *tests/testthat/test-LDA_survival.R
 f87bcceaaca4cf12a3e8b70f90e15a82 *tests/testthat/test-LDA_survival_single.R
 eefaa11c52930062f8396c5ecdd79929 *tests/testthat/test-LDA_table.R
-b6a86b312d9e37d44e0fbec348df834e *vignettes/LDAcoop.Rmd
+26515bf0b1721cc007a8bfc0d161cf0d *vignettes/LDAcoop.Rmd

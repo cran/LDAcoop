@@ -2,7 +2,7 @@ Package: LDAcoop
 Type: Package
 Title: Analysis of Data from Limiting Dilution Assay (LDA) with or
         without Cellular Cooperation
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person("Daniel", "Samaga", 
            email = "daniel.samaga@helmholtz-munich.de",
@@ -36,11 +36,11 @@ Suggests: knitr, rmarkdown, testthat (>= 3.0.0)
 VignetteBuilder: knitr
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2023-10-06 14:21:05 UTC; daniel.samaga
+Packaged: 2024-07-17 09:43:00 UTC; daniel.samaga
 Author: Daniel Samaga [cre, aut],
   Nikko Brix [aut],
   Benedek Danko [aut],
   Kirsten Lauber [aut],
   Horst Zitzelsberger [aut]
 Repository: CRAN
-Date/Publication: 2023-10-09 12:50:17 UTC
+Date/Publication: 2024-07-17 10:00:02 UTC
